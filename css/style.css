@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+}
+img{
+  max-width: 100%;
+}
+
+/*------------Google section-----------*/
+
+
+.google{
+  width: 200px;
+  height: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+/*-----------Blog section-----------*/
+.container{
+  font-size: 40px;
+  width: 600px;
+  margin: auto;
+}
+.color1{
+  color: skyblue;
+}
+.color2{
+  color: red;
+}
+.color3{
+  color: green;
+}
+.color4{
+  color: orange;
+}
+
+/*---------- People section ---------*/
+
+.people {
+  width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/*--------- Blog bold----------*/
+.container-bold{
+  margin-left: 120px;
+  width: 300px;
+  font-size: 50px;
+}
+
+/*-------Blog section------*/
+
+.container-blog{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1100px;
+  height: auto;
+  font-size: 18px;
+  text-align: justify;
+}
+/*---------- Footer blog----------*/
+
+.container-last{
+  width: 1100px;
+  font-size: 30px;
+  background: #31b331;
+  color: white;
+  padding: 84px 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
